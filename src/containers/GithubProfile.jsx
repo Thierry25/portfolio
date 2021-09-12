@@ -5,7 +5,7 @@ import {get} from 'axios';
 import GithubProfileCard from 'components/GithubProfileCard';
 
 const GithubProfile = () => {
-    const quary = `https://api.github.com/users/${openSource.githubUserName}`;
+    const query = `https://api.github.com/users/${openSource.githubUserName}`;
     const [prof, setProf] = useState({});
     async function getProfileData(q) {
       await get(q)
@@ -13,8 +13,8 @@ const GithubProfile = () => {
         .catch((err) => console.log(err));
     }
     useEffect(() => {
-      getProfileData(quary);
-    }, [quary]);
+      getProfileData(query);
+    }, [query]);
     return ( 
         <Suspense fallback={<Loading />}>
            <GithubProfileCard prof={prof}/>

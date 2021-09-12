@@ -29,7 +29,7 @@ const Proficiency = () => {
                                             <div className="progress-percentage">
                                             <span>{skill.progressPercentage}%</span>
                                             </div>
-                                            <Progress max="100" value={skill.progressPercentage} color="info" />
+                                            <Progress max="100" value={skill.progressPercentage} color="darker" />
                                         </div>
                             })
                         }

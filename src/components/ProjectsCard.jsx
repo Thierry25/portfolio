@@ -17,8 +17,8 @@ const ProjectsCard = ({ data }) => {
 								{data.github ? (
 									<Button
 										className="btn-icon"
-										color="github"
-										href={data.link}
+										color="facebook"
+										href={data.github}
 										target="_blank"
 									>
 										<span className="btn-inner--icon">
@@ -29,7 +29,7 @@ const ProjectsCard = ({ data }) => {
 								{data.link ? (
 									<Button
 										className="btn-icon"
-										color="success"
+										color="dark"
 										href={data.link}
 										target="_blank"
 									>
