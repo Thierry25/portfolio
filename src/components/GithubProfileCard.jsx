@@ -25,7 +25,7 @@ const GithubProfileCard = ({prof}) => {
                       </h2>
                       <p className="lead text-darker mt-3">
                           Feel free to reach out to me if you want to collaborate on a project, or want to discuss about it.
-                           <br/>Psst..<br/><a href="https://amateurmind.substack.com">Subscribe to the blog</a>
+                           <br/>Psst..<br/><a href="https://beginner.substack.com">Subscribe to the blog</a>
                       </p>
                       <p className="text-darker mt-3">
                           {prof.bio}
