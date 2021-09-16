@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Thierry Marcelin",
 	title: "👋🏼 I'm Thierry😎",
 	description:
-		"I am in ❤️ with mobile development. I build Android applications and some web applications🥳!",
+		"I am in ❤️ with mobile development. I build Android applications and web applications🥳!",
 	resumeLink: "https://drive.google.com/file/d/1GhNl_7gf3YpHitAuYBECnJqyL79TZGNC/view?usp=sharing",
 };
 
