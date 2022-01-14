@@ -105,9 +105,9 @@ export const projects = [
       "An Android chat application that allows users to send text messages, images, audio, video and documents." +
       " Users are allowed to create groups of up to 128 users, and channels for mass communication. " +
       "They will also be able to add statuses that will disappear after 24 hours. <br />" +
-      "Languages used: Java, XML <br />" +
-      "Platform: Android <br />" +
-      "Architecture: MVVM <br />" +
+      "Languages used: Java, XML \n" +
+      "Platform: Android \n" +
+      "Architecture: MVVM \n" +
       "Other technologies: Retrofit, Firebase, REST, JSON",
     github: "https://github.com/Thierry25/ChatApp/",
   },
@@ -116,10 +116,10 @@ export const projects = [
     desc:
       "A e-commerce that showcases different products. Users can log in/sign up, get product details, search for wanted products, " +
       "add products to cart and order products (Using Fake Paypal API)." +
-      " The admin of the app can see all orders that have been placed and can add/remove products. <br />" +
-      "Languages used: Java, XML <br />" +
-      "Platform: Android <br /> " +
-      "Architecture: MVVM  <br />" +
+      " The admin of the app can see all orders that have been placed and can add/remove products. \n" +
+      "Languages used: Java, XML \n" +
+      "Platform: Android \n " +
+      "Architecture: MVVM  \n" +
       "Other technologies: Retrofit, Firebase, REST, JSON",
     github: "https://github.com/Thierry25/IBUY",
   },
@@ -128,11 +128,11 @@ export const projects = [
     desc:
       "A tool that allow job applicants to format their resume in a professional way and maximize their hiring possibility. " +
       "It offers three main functionalities: 1) Analyze Resume And Highlight important missing information, " +
-      " 2) Return resume completeness percentage, 3) Change Resume Formats. <br />" +
-      "Languages used: Ruby, Slim, CSS, SQL <br />" +
-      "Test-Driven Development: Unit Tests, Integration Tests, Acceptance Tests (Selenium). <br />" +
-      "System Architecture: RESTful APIs (External API and created our own), Message-Driven Microservices. <br />" +
-      "Web Development: Web Sockets, Responsive Interface <br />",
+      " 2) Return resume completeness percentage, 3) Change Resume Formats. \n" +
+      "Languages used: Ruby, Slim, CSS, SQL \n" +
+      "Test-Driven Development: Unit Tests, Integration Tests, Acceptance Tests (Selenium). \n" +
+      "System Architecture: RESTful APIs (External API and created our own), Message-Driven Microservices. \n" +
+      "Web Development: Web Sockets, Responsive Interface \n",
     github: "https://github.com/SOA-LouDLy/Jobify",
     link: "https://jobifyy.herokuapp.com",
   },
