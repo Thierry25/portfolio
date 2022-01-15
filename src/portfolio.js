@@ -104,7 +104,7 @@ export const projects = [
     desc:
       "An Android chat application that allows users to send text messages, images, audio, video and documents." +
       " Users are allowed to create groups of up to 128 users, and channels for mass communication. " +
-      "They will also be able to add statuses that will disappear after 24 hours. <br />" +
+      "They will also be able to add statuses that will disappear after 24 hours." +
       "Languages used: Java, XML \n" +
       "Platform: Android \n" +
       "Architecture: MVVM \n" +
