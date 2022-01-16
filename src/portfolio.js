@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I am in ❤️ with mobile development. I build Android applications and web applications🥳!",
   resumeLink:
-    "https://drive.google.com/file/d/1GhNl_7gf3YpHitAuYBECnJqyL79TZGNC/view?usp=sharing",
+    "https://drive.google.com/file/d/1USJm3kow8Wt_98SyNVpaJYCtT8avJySD/view?usp=sharing",
 };
 
 export const openSource = {
