@@ -90,11 +90,11 @@ export const SkillBars = [
   },
   {
     Stack: "Android App Development",
-    progressPercentage: "80",
+    progressPercentage: "70",
   },
   {
     Stack: "Python",
-    progressPercentage: "75",
+    progressPercentage: "70",
   },
   {
     Stack: "UI Design",
