@@ -85,6 +85,10 @@ export const SkillBars = [
     progressPercentage: "85",
   },
   {
+    Stack: "Ruby",
+    progressPercentage: "75",
+  },
+  {
     Stack: "Android App Development",
     progressPercentage: "80",
   },
@@ -94,7 +98,7 @@ export const SkillBars = [
   },
   {
     Stack: "UI Design",
-    progressPercentage: "80",
+    progressPercentage: "60",
   },
 ];
 
@@ -135,5 +139,19 @@ export const projects = [
       "Web Development: Web Sockets, Responsive Interface \n",
     github: "https://github.com/SOA-LouDLy/Jobify",
     link: "https://jobifyy.herokuapp.com",
+  },
+  {
+    name: "EtaShare",
+    desc:
+      "An application that allows users to securely share documents with others, and select users that can access them \n" +
+      "Security Features: Authentication (Encrypted Password and key-strecthing), Secure Databse that prevents mass-assignments. " +
+      "Google OAuth, Token-based authentication, Email verification on registration, Signed requests between the application and the API. " +
+      "Implemented Policies that will assure role of users. Create API KEY for users" +
+      "Languages used: Ruby, Slim, CSS, SQL \n" +
+      "Test-Driven Development: Unit Tests, Integration Tests, Acceptance Tests (Selenium). \n" +
+      "System Architecture: RESTful APIs (Created our own), Message-Driven Microservices. \n" +
+      "Web Development:  Responsive Interface \n",
+    github: "https://github.com/Eta-Team/EtaShare-App",
+    link: "https://etashare-app.herokuapp.com",
   },
 ];
