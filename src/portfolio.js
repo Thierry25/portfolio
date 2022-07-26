@@ -149,7 +149,7 @@ export const projects = [
       "Implemented Policies that will assure role of users. Create API KEY for users" +
       "Languages used: Ruby, Slim, CSS, SQL \n" +
       "Test-Driven Development: Unit Tests, Integration Tests, Acceptance Tests (Selenium). \n" +
-      "System Architecture: RESTful APIs (Created our own), Message-Driven Microservices. \n",
+      "System Architecture: RESTful APIs \n",
     github: "https://github.com/Eta-Team/EtaShare-App",
     link: "https://etashare-app.herokuapp.com",
   },
