@@ -8,16 +8,6 @@ const SocialLinks = () => {
   return (
     <div className="btn-wrapper text-lg">
       <Button
-        className="btn-icon-only rounded-circle"
-        color="facebook"
-        href={socialLinks.twitter}
-        target="_blank"
-      >
-        <span className="btn-inner--icon">
-          <i className="fa fa-twitter" />
-        </span>
-      </Button>
-      <Button
         className="btn-icon-only rounded-circle ml-1"
         color="facebook"
         href={socialLinks.github}
